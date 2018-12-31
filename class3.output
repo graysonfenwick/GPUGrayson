@@ -1,0 +1,455 @@
+ 
+classify3 images/Batman1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Batman1.ppm.
+	CPU time: 		0.760832 msec
+	GPU time: 		0.523264 msec
+	Speedup: 		1.454012
+
+Matches
+-------
+	First:  Batman1.ppm    	100.0%
+	Second: Batman2.ppm    	 77.5%
+ 
+classify3 images/Batman2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Batman2.ppm.
+	CPU time: 		0.762880 msec
+	GPU time: 		0.520192 msec
+	Speedup: 		1.466535
+
+Matches
+-------
+	First:  Batman2.ppm    	100.0%
+	Second: Batman1.ppm    	 77.5%
+ 
+classify3 images/BlackWidow1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/BlackWidow1.ppm.
+	CPU time: 		0.741376 msec
+	GPU time: 		0.520192 msec
+	Speedup: 		1.425197
+
+Matches
+-------
+	First:  BlackWidow1.ppm    	100.0%
+	Second: BlackWidow2.ppm    	 78.3%
+ 
+classify3 images/BlackWidow2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/BlackWidow2.ppm.
+	CPU time: 		0.736544 msec
+	GPU time: 		0.516992 msec
+	Speedup: 		1.424672
+
+Matches
+-------
+	First:  BlackWidow2.ppm    	100.0%
+	Second: BlackWidow1.ppm    	 78.3%
+ 
+classify3 images/C3PO1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/C3PO1.ppm.
+	CPU time: 		0.721888 msec
+	GPU time: 		0.501728 msec
+	Speedup: 		1.438804
+
+Matches
+-------
+	First:  C3PO1.ppm    	100.0%
+	Second: C3PO2.ppm    	 72.5%
+ 
+classify3 images/C3PO2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/C3PO2.ppm.
+	CPU time: 		0.784352 msec
+	GPU time: 		0.509952 msec
+	Speedup: 		1.538090
+
+Matches
+-------
+	First:  C3PO2.ppm    	100.0%
+	Second: C3PO1.ppm    	 72.5%
+ 
+classify3 images/CaptainAmerica1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/CaptainAmerica1.ppm.
+	CPU time: 		1.390784 msec
+	GPU time: 		0.893920 msec
+	Speedup: 		1.555826
+
+Matches
+-------
+	First:  CaptainAmerica1.ppm    	100.0%
+	Second: CaptainAmerica2.ppm    	 68.9%
+ 
+classify3 images/CaptainAmerica2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/CaptainAmerica2.ppm.
+	CPU time: 		1.666048 msec
+	GPU time: 		0.919584 msec
+	Speedup: 		1.811741
+
+Matches
+-------
+	First:  CaptainAmerica2.ppm    	100.0%
+	Second: CaptainAmerica1.ppm    	 68.9%
+ 
+classify3 images/DarthVader1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/DarthVader1.ppm.
+	CPU time: 		1.519360 msec
+	GPU time: 		0.900128 msec
+	Speedup: 		1.687938
+
+Matches
+-------
+	First:  DarthVader1.ppm    	100.0%
+	Second: DarthVader2.ppm    	 70.1%
+ 
+classify3 images/DarthVader2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/DarthVader2.ppm.
+	CPU time: 		1.459168 msec
+	GPU time: 		0.897984 msec
+	Speedup: 		1.624938
+
+Matches
+-------
+	First:  DarthVader2.ppm    	100.0%
+	Second: DarthVader1.ppm    	 70.1%
+ 
+classify3 images/Flash1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Flash1.ppm.
+	CPU time: 		0.739296 msec
+	GPU time: 		0.513856 msec
+	Speedup: 		1.438722
+
+Matches
+-------
+	First:  Flash1.ppm    	100.0%
+	Second: Flash2.ppm    	 61.9%
+ 
+classify3 images/Flash2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Flash2.ppm.
+	CPU time: 		0.714656 msec
+	GPU time: 		0.516064 msec
+	Speedup: 		1.384820
+
+Matches
+-------
+	First:  Flash2.ppm    	100.0%
+	Second: Flash1.ppm    	 61.9%
+ 
+classify3 images/Hawkeye1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Hawkeye1.ppm.
+	CPU time: 		0.806912 msec
+	GPU time: 		0.513024 msec
+	Speedup: 		1.572854
+
+Matches
+-------
+	First:  Hawkeye1.ppm    	100.0%
+	Second: Hawkeye2.ppm    	 75.0%
+ 
+classify3 images/Hawkeye2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Hawkeye2.ppm.
+	CPU time: 		0.690208 msec
+	GPU time: 		0.423616 msec
+	Speedup: 		1.629325
+
+Matches
+-------
+	First:  Hawkeye2.ppm    	100.0%
+	Second: Hawkeye1.ppm    	 75.0%
+ 
+classify3 images/Hulk1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Hulk1.ppm.
+	CPU time: 		1.412384 msec
+	GPU time: 		0.873216 msec
+	Speedup: 		1.617451
+
+Matches
+-------
+	First:  Hulk1.ppm    	100.0%
+	Second: Hulk2.ppm    	 67.0%
+ 
+classify3 images/Hulk2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Hulk2.ppm.
+	CPU time: 		1.371904 msec
+	GPU time: 		0.851840 msec
+	Speedup: 		1.610518
+
+Matches
+-------
+	First:  Hulk2.ppm    	100.0%
+	Second: Hulk1.ppm    	 67.0%
+ 
+classify3 images/Ironman1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Ironman1.ppm.
+	CPU time: 		0.748544 msec
+	GPU time: 		0.509760 msec
+	Speedup: 		1.468424
+
+Matches
+-------
+	First:  Ironman1.ppm    	100.0%
+	Second: Ironman2.ppm    	 71.3%
+ 
+classify3 images/Ironman2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Ironman2.ppm.
+	CPU time: 		0.727040 msec
+	GPU time: 		0.512000 msec
+	Speedup: 		1.420000
+
+Matches
+-------
+	First:  Ironman2.ppm    	100.0%
+	Second: Ironman3.ppm    	 75.9%
+ 
+classify3 images/Ironman3.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Ironman3.ppm.
+	CPU time: 		0.702464 msec
+	GPU time: 		0.522048 msec
+	Speedup: 		1.345593
+
+Matches
+-------
+	First:  Ironman3.ppm    	100.0%
+	Second: Ironman2.ppm    	 75.9%
+ 
+classify3 images/Loki1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Loki1.ppm.
+	CPU time: 		0.701408 msec
+	GPU time: 		0.515072 msec
+	Speedup: 		1.361767
+
+Matches
+-------
+	First:  Loki1.ppm    	100.0%
+	Second: Loki2.ppm    	 68.0%
+ 
+classify3 images/Loki2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Loki2.ppm.
+	CPU time: 		0.665600 msec
+	GPU time: 		0.419840 msec
+	Speedup: 		1.585366
+
+Matches
+-------
+	First:  Loki2.ppm    	100.0%
+	Second: Loki1.ppm    	 68.0%
+ 
+classify3 images/Magneto1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Magneto1.ppm.
+	CPU time: 		0.792608 msec
+	GPU time: 		0.518112 msec
+	Speedup: 		1.529801
+
+Matches
+-------
+	First:  Magneto1.ppm    	100.0%
+	Second: Magneto2.ppm    	 78.7%
+ 
+classify3 images/Magneto2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Magneto2.ppm.
+	CPU time: 		0.769024 msec
+	GPU time: 		0.519168 msec
+	Speedup: 		1.481262
+
+Matches
+-------
+	First:  Magneto2.ppm    	100.0%
+	Second: Magneto1.ppm    	 78.7%
+ 
+classify3 images/Spiderman1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Spiderman1.ppm.
+	CPU time: 		1.264416 msec
+	GPU time: 		0.808704 msec
+	Speedup: 		1.563509
+
+Matches
+-------
+	First:  Spiderman1.ppm    	100.0%
+	Second: Spiderman2.ppm    	 75.0%
+ 
+classify3 images/Spiderman2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Spiderman2.ppm.
+	CPU time: 		1.399872 msec
+	GPU time: 		0.912352 msec
+	Speedup: 		1.534355
+
+Matches
+-------
+	First:  Spiderman2.ppm    	100.0%
+	Second: Spiderman1.ppm    	 75.0%
+ 
+classify3 images/SpidermanVenom1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/SpidermanVenom1.ppm.
+	CPU time: 		0.747328 msec
+	GPU time: 		0.497632 msec
+	Speedup: 		1.501768
+
+Matches
+-------
+	First:  SpidermanVenom1.ppm    	100.0%
+	Second: SpidermanVenom2.ppm    	 60.8%
+ 
+classify3 images/SpidermanVenom2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/SpidermanVenom2.ppm.
+	CPU time: 		0.713728 msec
+	GPU time: 		0.493472 msec
+	Speedup: 		1.446339
+
+Matches
+-------
+	First:  SpidermanVenom2.ppm    	100.0%
+	Second: Hawkeye1.ppm    	 64.4%
+ 
+classify3 images/Superman1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Superman1.ppm.
+	CPU time: 		0.764960 msec
+	GPU time: 		0.536544 msec
+	Speedup: 		1.425717
+
+Matches
+-------
+	First:  Superman1.ppm    	100.0%
+	Second: Superman2.ppm    	 67.8%
+ 
+classify3 images/Superman2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Superman2.ppm.
+	CPU time: 		0.767872 msec
+	GPU time: 		0.528384 msec
+	Speedup: 		1.453246
+
+Matches
+-------
+	First:  Superman2.ppm    	100.0%
+	Second: Superman1.ppm    	 67.8%
+ 
+classify3 images/Thor1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Thor1.ppm.
+	CPU time: 		0.791296 msec
+	GPU time: 		0.520160 msec
+	Speedup: 		1.521255
+
+Matches
+-------
+	First:  Thor1.ppm    	100.0%
+	Second: Thor2.ppm    	 73.8%
+ 
+classify3 images/Thor2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Thor2.ppm.
+	CPU time: 		0.808928 msec
+	GPU time: 		0.523232 msec
+	Speedup: 		1.546022
+
+Matches
+-------
+	First:  Thor2.ppm    	100.0%
+	Second: Thor1.ppm    	 73.8%
+ 
+classify3 images/Wolverine1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Wolverine1.ppm.
+	CPU time: 		0.701472 msec
+	GPU time: 		0.523264 msec
+	Speedup: 		1.340570
+
+Matches
+-------
+	First:  Wolverine1.ppm    	100.0%
+	Second: Wolverine2.ppm    	 71.5%
+ 
+classify3 images/Wolverine2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/Wolverine2.ppm.
+	CPU time: 		0.695296 msec
+	GPU time: 		0.517856 msec
+	Speedup: 		1.342643
+
+Matches
+-------
+	First:  Wolverine2.ppm    	100.0%
+	Second: Wolverine1.ppm    	 71.5%
+ 
+classify3 images/WonderWoman1.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/WonderWoman1.ppm.
+	CPU time: 		0.652032 msec
+	GPU time: 		0.415744 msec
+	Speedup: 		1.568350
+
+Matches
+-------
+	First:  WonderWoman1.ppm    	100.0%
+	Second: WonderWoman2.ppm    	 64.7%
+ 
+classify3 images/WonderWoman2.ppm
+Classify using a Belloch sum to calculate the histogram size
+
+Computing histogram and classifying images/WonderWoman2.ppm.
+	CPU time: 		0.726016 msec
+	GPU time: 		0.531296 msec
+	Speedup: 		1.366500
+
+Matches
+-------
+	First:  WonderWoman2.ppm    	100.0%
+	Second: WonderWoman1.ppm    	 64.7%

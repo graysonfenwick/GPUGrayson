@@ -1,0 +1,455 @@
+ 
+classify2 images/Batman1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Batman1.ppm.
+	CPU time: 		0.765952 msec
+	GPU time: 		0.476960 msec
+	Speedup: 		1.605904
+
+Matches
+-------
+	First:  Batman1.ppm    	100.0%
+	Second: Batman2.ppm    	 77.5%
+ 
+classify2 images/Batman2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Batman2.ppm.
+	CPU time: 		0.766976 msec
+	GPU time: 		0.475104 msec
+	Speedup: 		1.614333
+
+Matches
+-------
+	First:  Batman2.ppm    	100.0%
+	Second: Batman1.ppm    	 77.5%
+ 
+classify2 images/BlackWidow1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/BlackWidow1.ppm.
+	CPU time: 		0.769056 msec
+	GPU time: 		0.475904 msec
+	Speedup: 		1.615990
+
+Matches
+-------
+	First:  BlackWidow1.ppm    	100.0%
+	Second: BlackWidow2.ppm    	 78.3%
+ 
+classify2 images/BlackWidow2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/BlackWidow2.ppm.
+	CPU time: 		0.741472 msec
+	GPU time: 		0.472096 msec
+	Speedup: 		1.570596
+
+Matches
+-------
+	First:  BlackWidow2.ppm    	100.0%
+	Second: BlackWidow1.ppm    	 78.3%
+ 
+classify2 images/C3PO1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/C3PO1.ppm.
+	CPU time: 		0.696096 msec
+	GPU time: 		0.457728 msec
+	Speedup: 		1.520763
+
+Matches
+-------
+	First:  C3PO1.ppm    	100.0%
+	Second: C3PO2.ppm    	 72.5%
+ 
+classify2 images/C3PO2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/C3PO2.ppm.
+	CPU time: 		0.708640 msec
+	GPU time: 		0.459712 msec
+	Speedup: 		1.541487
+
+Matches
+-------
+	First:  C3PO2.ppm    	100.0%
+	Second: C3PO1.ppm    	 72.5%
+ 
+classify2 images/CaptainAmerica1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/CaptainAmerica1.ppm.
+	CPU time: 		1.423360 msec
+	GPU time: 		0.827360 msec
+	Speedup: 		1.720363
+
+Matches
+-------
+	First:  CaptainAmerica1.ppm    	100.0%
+	Second: CaptainAmerica2.ppm    	 68.9%
+ 
+classify2 images/CaptainAmerica2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/CaptainAmerica2.ppm.
+	CPU time: 		1.510304 msec
+	GPU time: 		0.888832 msec
+	Speedup: 		1.699201
+
+Matches
+-------
+	First:  CaptainAmerica2.ppm    	100.0%
+	Second: CaptainAmerica1.ppm    	 68.9%
+ 
+classify2 images/DarthVader1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/DarthVader1.ppm.
+	CPU time: 		2.262848 msec
+	GPU time: 		0.881696 msec
+	Speedup: 		2.566472
+
+Matches
+-------
+	First:  DarthVader1.ppm    	100.0%
+	Second: DarthVader2.ppm    	 70.1%
+ 
+classify2 images/DarthVader2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/DarthVader2.ppm.
+	CPU time: 		1.470240 msec
+	GPU time: 		0.857152 msec
+	Speedup: 		1.715262
+
+Matches
+-------
+	First:  DarthVader2.ppm    	100.0%
+	Second: DarthVader1.ppm    	 70.1%
+ 
+classify2 images/Flash1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Flash1.ppm.
+	CPU time: 		0.745696 msec
+	GPU time: 		0.464864 msec
+	Speedup: 		1.604116
+
+Matches
+-------
+	First:  Flash1.ppm    	100.0%
+	Second: Flash2.ppm    	 61.9%
+ 
+classify2 images/Flash2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Flash2.ppm.
+	CPU time: 		0.727072 msec
+	GPU time: 		0.472096 msec
+	Speedup: 		1.540094
+
+Matches
+-------
+	First:  Flash2.ppm    	100.0%
+	Second: Flash1.ppm    	 61.9%
+ 
+classify2 images/Hawkeye1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Hawkeye1.ppm.
+	CPU time: 		0.799776 msec
+	GPU time: 		0.473056 msec
+	Speedup: 		1.690658
+
+Matches
+-------
+	First:  Hawkeye1.ppm    	100.0%
+	Second: Hawkeye2.ppm    	 75.0%
+ 
+classify2 images/Hawkeye2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Hawkeye2.ppm.
+	CPU time: 		0.696160 msec
+	GPU time: 		0.372704 msec
+	Speedup: 		1.867863
+
+Matches
+-------
+	First:  Hawkeye2.ppm    	100.0%
+	Second: Hawkeye1.ppm    	 75.0%
+ 
+classify2 images/Hulk1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Hulk1.ppm.
+	CPU time: 		1.571008 msec
+	GPU time: 		0.817120 msec
+	Speedup: 		1.922616
+
+Matches
+-------
+	First:  Hulk1.ppm    	100.0%
+	Second: Hulk2.ppm    	 67.0%
+ 
+classify2 images/Hulk2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Hulk2.ppm.
+	CPU time: 		1.378240 msec
+	GPU time: 		0.788480 msec
+	Speedup: 		1.747971
+
+Matches
+-------
+	First:  Hulk2.ppm    	100.0%
+	Second: Hulk1.ppm    	 67.0%
+ 
+classify2 images/Ironman1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Ironman1.ppm.
+	CPU time: 		0.740640 msec
+	GPU time: 		0.469984 msec
+	Speedup: 		1.575883
+
+Matches
+-------
+	First:  Ironman1.ppm    	100.0%
+	Second: Ironman2.ppm    	 71.3%
+ 
+classify2 images/Ironman2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Ironman2.ppm.
+	CPU time: 		0.814080 msec
+	GPU time: 		0.473152 msec
+	Speedup: 		1.720546
+
+Matches
+-------
+	First:  Ironman2.ppm    	100.0%
+	Second: Ironman3.ppm    	 75.9%
+ 
+classify2 images/Ironman3.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Ironman3.ppm.
+	CPU time: 		0.706560 msec
+	GPU time: 		0.478208 msec
+	Speedup: 		1.477516
+
+Matches
+-------
+	First:  Ironman3.ppm    	100.0%
+	Second: Ironman2.ppm    	 75.9%
+ 
+classify2 images/Loki1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Loki1.ppm.
+	CPU time: 		0.697440 msec
+	GPU time: 		0.465920 msec
+	Speedup: 		1.496909
+
+Matches
+-------
+	First:  Loki1.ppm    	100.0%
+	Second: Loki2.ppm    	 68.0%
+ 
+classify2 images/Loki2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Loki2.ppm.
+	CPU time: 		0.670720 msec
+	GPU time: 		0.371744 msec
+	Speedup: 		1.804252
+
+Matches
+-------
+	First:  Loki2.ppm    	100.0%
+	Second: Loki1.ppm    	 68.0%
+ 
+classify2 images/Magneto1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Magneto1.ppm.
+	CPU time: 		0.796512 msec
+	GPU time: 		0.475008 msec
+	Speedup: 		1.676839
+
+Matches
+-------
+	First:  Magneto1.ppm    	100.0%
+	Second: Magneto2.ppm    	 78.7%
+ 
+classify2 images/Magneto2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Magneto2.ppm.
+	CPU time: 		0.778432 msec
+	GPU time: 		0.476160 msec
+	Speedup: 		1.634812
+
+Matches
+-------
+	First:  Magneto2.ppm    	100.0%
+	Second: Magneto1.ppm    	 78.7%
+ 
+classify2 images/Spiderman1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Spiderman1.ppm.
+	CPU time: 		1.346560 msec
+	GPU time: 		0.774144 msec
+	Speedup: 		1.739418
+
+Matches
+-------
+	First:  Spiderman1.ppm    	100.0%
+	Second: Spiderman2.ppm    	 75.0%
+ 
+classify2 images/Spiderman2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Spiderman2.ppm.
+	CPU time: 		1.400832 msec
+	GPU time: 		0.858976 msec
+	Speedup: 		1.630816
+
+Matches
+-------
+	First:  Spiderman2.ppm    	100.0%
+	Second: Spiderman1.ppm    	 75.0%
+ 
+classify2 images/SpidermanVenom1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/SpidermanVenom1.ppm.
+	CPU time: 		0.829312 msec
+	GPU time: 		0.459744 msec
+	Speedup: 		1.803856
+
+Matches
+-------
+	First:  SpidermanVenom1.ppm    	100.0%
+	Second: SpidermanVenom2.ppm    	 60.8%
+ 
+classify2 images/SpidermanVenom2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/SpidermanVenom2.ppm.
+	CPU time: 		0.723872 msec
+	GPU time: 		0.452608 msec
+	Speedup: 		1.599335
+
+Matches
+-------
+	First:  SpidermanVenom2.ppm    	100.0%
+	Second: Hawkeye1.ppm    	 64.4%
+ 
+classify2 images/Superman1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Superman1.ppm.
+	CPU time: 		0.775424 msec
+	GPU time: 		0.489472 msec
+	Speedup: 		1.584205
+
+Matches
+-------
+	First:  Superman1.ppm    	100.0%
+	Second: Superman2.ppm    	 67.8%
+ 
+classify2 images/Superman2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Superman2.ppm.
+	CPU time: 		0.762880 msec
+	GPU time: 		0.490496 msec
+	Speedup: 		1.555324
+
+Matches
+-------
+	First:  Superman2.ppm    	100.0%
+	Second: Superman1.ppm    	 67.8%
+ 
+classify2 images/Thor1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Thor1.ppm.
+	CPU time: 		0.801952 msec
+	GPU time: 		0.476128 msec
+	Speedup: 		1.684320
+
+Matches
+-------
+	First:  Thor1.ppm    	100.0%
+	Second: Thor2.ppm    	 73.8%
+ 
+classify2 images/Thor2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Thor2.ppm.
+	CPU time: 		0.807136 msec
+	GPU time: 		0.476160 msec
+	Speedup: 		1.695094
+
+Matches
+-------
+	First:  Thor2.ppm    	100.0%
+	Second: Thor1.ppm    	 73.8%
+ 
+classify2 images/Wolverine1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Wolverine1.ppm.
+	CPU time: 		0.783456 msec
+	GPU time: 		0.475168 msec
+	Speedup: 		1.648798
+
+Matches
+-------
+	First:  Wolverine1.ppm    	100.0%
+	Second: Wolverine2.ppm    	 71.5%
+ 
+classify2 images/Wolverine2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/Wolverine2.ppm.
+	CPU time: 		0.702464 msec
+	GPU time: 		0.471072 msec
+	Speedup: 		1.491203
+
+Matches
+-------
+	First:  Wolverine2.ppm    	100.0%
+	Second: Wolverine1.ppm    	 71.5%
+ 
+classify2 images/WonderWoman1.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/WonderWoman1.ppm.
+	CPU time: 		0.655328 msec
+	GPU time: 		0.367488 msec
+	Speedup: 		1.783264
+
+Matches
+-------
+	First:  WonderWoman1.ppm    	100.0%
+	Second: WonderWoman2.ppm    	 64.7%
+ 
+classify2 images/WonderWoman2.ppm
+Classify using a Kogge-Stone sum to calculate the histogram size
+
+Computing histogram and classifying images/WonderWoman2.ppm.
+	CPU time: 		0.734176 msec
+	GPU time: 		0.488224 msec
+	Speedup: 		1.503769
+
+Matches
+-------
+	First:  WonderWoman2.ppm    	100.0%
+	Second: WonderWoman1.ppm    	 64.7%
